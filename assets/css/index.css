@@ -1,13 +1,13 @@
 * {
     font-family: Helvetica;
 }
-header {
-    
+
+h1 {
     font-size: 100px;
     font-weight: bold;
     color: khaki;
     text-align: center;
-    background-image: url('./assets/images/pattern.jpeg');
+    background: url("../images/pattern.jpeg");
 }
 
 span {
